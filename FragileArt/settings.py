@@ -141,6 +141,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+print("hello there")
 
 LANGUAGE_CODE = 'en-us'
 
